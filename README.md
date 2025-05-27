@@ -47,10 +47,27 @@ To set APP Key
 
 
 ## OUTPUT 
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/858435f2-2f59-435d-ad3f-7ecd377bd0da)
+
+## Over View:
+
+![380367656-713d53e4-6b52-4ff2-b104-95320e259693](https://github.com/user-attachments/assets/e9c5e753-1a55-4c8f-970c-1dc2b11fae68)
+
+## GETWAY:
+
+![380367861-327f0569-7b6e-42c9-8929-8caf3d89d310](https://github.com/user-attachments/assets/5076f483-aeef-4918-ad2d-69f1043b8312)
+
+## CHENNAL:
+
+![380367888-a053ee52-643b-4f40-9a9c-9f1b003af229](https://github.com/user-attachments/assets/05f42e1e-991b-43e2-aecf-c679aa000f40)
+
+## END DEVICE:
+
+![380367966-d13429ba-c55b-4f6c-9747-0e2acd536fb9](https://github.com/user-attachments/assets/d61061ba-09b2-469e-8272-04f427daa829)
 
 
+## PAYLOAD:
 
+![380368011-9aee256b-0a0b-46f3-8b0e-c5dcc7dd518f](https://github.com/user-attachments/assets/031c1614-7bd1-4eef-8fdb-6d8665bf722c)
 
 ## Results: 
 
